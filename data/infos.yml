@@ -1,0 +1,564 @@
+books:
+  chacal:
+    name: "É proibido pisar na grama"
+    author: Chacal
+    public: true
+    released_at: Dezembro 2014
+    img: "chacal.jpg"
+    link: "https://dl.dropboxusercontent.com/u/1393734/Leve%20um%20livro/ed_01.pdf"
+  ana_martins_marques:
+    name: "Arquitetura de interiores +2"
+    author: Ana Martins Marques
+    public: true
+    released_at: Dezembro 2014
+    img: "ana_martins_marques.jpg"
+    link: "https://dl.dropboxusercontent.com/u/1393734/Leve%20um%20livro/ed_02.pdf"
+  luiz_roberto_guedes:
+    name: "Almanárquico"
+    author: Luiz Roberto Guedes
+    public: true
+    released_at: Janeiro 2015
+    img: "luiz_roberto_guedes.jpg"
+    link: "https://dl.dropboxusercontent.com/u/1393734/Leve%20um%20livro/ed_03.pdf"
+  fabricio_marques:
+    name: "O começo de tudo"
+    author: Fabrício Marques
+    public: true
+    released_at: Janeiro 2015
+    img: "fabricio_marques.jpg"
+    link: "https://dl.dropboxusercontent.com/u/1393734/Leve%20um%20livro/ed_04.pdf"
+  nicolas_behr:
+    name: "Nove poemas e um segredo"
+    author: Nicolas Behr
+    public: true
+    released_at: Fevereiro 2015
+    img: "nicolas_behr.jpg"
+    link: "http://migre.me/opsHz"
+  marcelo_dolabela:
+    name: "Puro Sangue"
+    author: Marcelo Dolabela
+    public: true
+    released_at: Fevereiro 2015
+    img: "marcelo_dolabela.jpg"
+    link: "http://migre.me/opsI6"
+  fabiano_calixto:
+    name: "Jurubeba blue"
+    author: Fabiano Calixto
+    public: true
+    released_at: Março 2015
+    img: fabiano_calixto.jpg
+    link: "http://migre.me/oNlwM"
+  thais_guimaraes:
+    name: "Notas de viagem"
+    author: Thais Guimarães
+    public: true
+    released_at: Março 2015
+    img: thais_guimaraes.jpg
+    link: "http://migre.me/oNlxi"
+  maria_rezende:
+    name: "Asa"
+    author: Maria Rezende
+    public: true
+    released_at: Abril 2015
+    img: maria_rezende.jpg
+    link: "http://migre.me/plqVq"
+  leo_goncalves:
+    name: "Da cusparada"
+    author: Léo Gonçalves
+    public: true
+    released_at: Abril 2015
+    img: leo_goncalves.jpg
+    link: "http://migre.me/plqWB"
+  marcello_sahea:
+    name: "..."
+    author: Marcello Sahea
+    public: false
+    released_at: 20/10/2014
+    img: embreve.jpg
+    link: "#"
+  carlos_avila:
+    name: "..."
+    author: Carlos Ávila
+    public: false
+    released_at: 20/10/2014
+    img: embreve.jpg
+    link: "#"
+  amarildo_anzolin:
+    name: "..."
+    author: Amarildo Anzolin
+    public: false
+    released_at: 20/10/2014
+    img: embreve.jpg
+    link: "#"
+  mônica_de_aquino:
+    name: "..."
+    author: Mônica de Aquino
+    public: false
+    released_at: 20/10/2014
+    img: embreve.jpg
+    link: "#"
+  caio_camacho:
+    name: "..."
+    author: Caio Camacho
+    public: false
+    released_at: 20/10/2014
+    img: embreve.jpg
+    link: "#"
+  marcelo_montenegro:
+    name: "..."
+    author: Marcelo Montenegro
+    public: false
+    released_at: 20/10/2014
+    img: embreve.jpg
+    link: "#"
+  simone_andrade_neves:
+    name: "..."
+    author: Simone Andrade Neves
+    public: false
+    released_at: 20/10/2014
+    img: embreve.jpg
+    link: "#"
+  douglas_diegues:
+    name: "..."
+    author: Douglas Diegues
+    public: false
+    released_at: 20/10/2014
+    img: embreve.jpg
+    link: "#"
+  makely_ka:
+    name: "..."
+    author: Makely Ka
+    public: false
+    released_at: 20/10/2014
+    img: embreve.jpg
+    link: "#"
+  paulo_scott:
+    name: "..."
+    author: Paulo Scott
+    public: false
+    released_at: 20/10/2014
+    img: embreve.jpg
+    link: "#"
+  ana_bruno:
+    name: "..."
+    author: Ana Elisa Ribeiro / Bruno Brum
+    public: false
+    released_at: 20/10/2014
+    img: embreve.jpg
+    link: "#"
+  jovino_machado:
+    name: "..."
+    author: Jovino Machado
+    public: false
+    released_at: 20/10/2014
+    img: embreve.jpg
+    link: "#"
+  reuben_da_cunha_rocha:
+    name: "..."
+    author: Reuben da Cunha Rocha
+    public: false
+    released_at: 20/10/2014
+    img: embreve.jpg
+    link: "#"
+  renato_negrao:
+    name: "..."
+    author: Renato Negrão
+    public: false
+    released_at: 20/10/2014
+    img: embreve.jpg
+    link: "#"
+
+authors:
+  amarildo_anzolin:
+    name: Amarildo Anzolin
+    bio: "<b>Amarildo Anzolin</b> (Curitiba, PR/1970) é poeta, compositor, roteirista, performer,
+ministrante de oficinas de criação literária, revisor, radialista e produtor cultural.
+Publicou <i>Evite permanecer nesta área</i> (2012), <i>Cânone</i> (DVD, 2007), <i>Eu também</i> (livro-
+CD, 2003), <i>Única coisa</i> (livro-CD-vídeo, 2000), <i>Igual</i> (1998) e <i>Co-lapso</i> (1995). Vive em
+São Paulo."
+    book: amarildo_anzolin
+    active: false
+    img_active: amarildo1.png
+    img_inactive: amarildo2.png
+    img_big: amarildo.jpg
+    credit: Renato Larini
+  ana_bruno:
+    name: Ana Elisa Ribeiro / Bruno Brum
+    bio: "<b>Ana Elisa Ribeiro</b> é poeta e cronista, além de autora de livros infantojuvenis. Na
+poesia, publicou <i>Poesinha</i> (BH, Poesia Orbital, 1997), <i>Perversa</i> (SP, Ciência do Acidente,
+2002), <i>Fresta por onde olhar</i> (BH, Interditado, 2008) e <i>Anzol de pescar infernos</i> (SP,
+Patuá, 2013, semifinalista do Prêmio Portugal Telecom 2014). Além desses, tem
+poemas publicados em jornais, revistas e antologias, no Brasil, em Portugal e no
+México. <i>Chicletes, lambidinha & outras crônicas</i> (Natal, Jovens Escribas, 2012) e <i>Meus
+segredos com Capitu</i> (Natal, Jovens Escribas, 2013, semifinalista do Prêmio Portugal
+Telecom 2014) são coletâneas de crônicas publicadas na revista eletrônica Digestivo
+Cultural, em mais de 10 anos de atuação. Seu mais recente livro juvenil é <i>O e-mail de
+Caminha</i>, pela editora RHJ. Nasceu e vive em Belo Horizonte. É professora do Centro
+Federal de Educação Tecnológica de Minas Gerais, onde tenta fazer valer seu diploma
+de doutora em Linguística Aplicada.
+<br/>
+<br/>
+<b>Bruno Brum</b> nasceu em Belo Horizonte, em janeiro de 1981.
+Publicou os livros <i>Mínima idéia</i> (2004), <i>Cada</i> (2007) e
+<i>Mastodontes na sala de espera</i> (2011, Prêmio Governo de Minas
+Gerais de Literatura 2010). Traduziu poemas de Jerome
+Rothenberg, John Ashbery, Vicente Huidobro, Roberto Bolaño e
+Leopoldo María Panero. Tem poemas, traduções e textos críticos
+sobre sua obra publicados em diversos periódicos brasileiros, em
+mídia impressa e virtual. Para mais informações sobre o autor,
+acesse: <a href='http://www.brunobrum.net' target='_blank'>www.brunobrum.net</a>.
+"
+    book: ana_bruno
+    active: false
+    img_active: anabruno1.png
+    img_inactive: anabruno2.png
+    img_big: anabruno.jpg
+    credit: "?"
+  ana_martins_marques:
+    name: Ana Martins Marques
+    bio: "<b>Ana Martins Marques</b> nasceu em Belo Horizonte em
+1977. Publicou <i>A vida submarina</i> (Scriptum, 2009) e
+<i>Da arte das armadilhas</i> (Companhia das Letras, 2011).
+Com <i>Da arte das armadilhas</i>, recebeu o Prêmio de
+Literatura da Fundação Biblioteca Nacional e foi
+finalista do Prêmio Portugal Telecom."
+    book: ana_martins_marques
+    active: true
+    img_active: anamartins1.png
+    img_inactive: anamartins2.png
+    img_big: anamartins.jpg
+    credit: Rodrigo Valente
+  caio_camacho:
+    name: Caio Camacho
+    bio: "<b>Caio Carmacho</b> nasceu em São Paulo, cresceu em Paraty-RJ e mora, atualmente, em
+Piracicaba (interior de São Paulo). Publicou <i>Livre-me</i>, pela editora Patuá (2013). Escreve
+no blog Noutratez (<a href='http://noutratez.zip.net' target='_blank'>noutratez.zip.net</a>), organiza todo ano o sarau poético Picareta
+Cultural (<a href='http://picaretacultural.blogspot.com' target='_blank'>picaretacultural.blogspot.com</a>) e é um dos curadores da OFF FLIP de Paraty
+(<a href='http://offflip.paraty.com' target='_blank'>offflip.paraty.com</a>)."
+    book: caio_camacho
+    active: false
+    img_active: caio1.png
+    img_inactive: caio2.png
+    img_big: caio.jpg
+    credit: Giovanna Fischer
+  carlos_avila:
+    name: Carlos Ávila
+    bio: "<b>Carlos Ávila</b> (Belo Horizonte/MG, 1955) é poeta e jornalista. Publicou os
+livros de poemas: <i>Aqui & Agora</i> (BH, Edições Dubolso, 1981), <i>Sinal de
+menos</i> (Tipografia do Fundo de Ouro Preto, 1989), <i>Bissexto sentido</i> (SP,
+Editora Perspectiva/Coleção Signos, 1999), <i>LOA – aos pequenos lábios</i>
+(Brasília, Edições Civilização Arcaica, 1999), <i>Obstáculos</i> (BH, Memória
+Gráfica, 2004) e <i>Área de risco</i> (SP, Lumme Editor, 2012). Publicou também
+o livro de crítica <i>Poesia pensada</i> (RJ, 7Letras, 2004) e o infantil <i>Bri Bri no
+canto do parque</i> (SP, Scipione, 2012). Foi, por quatro anos (1995/98), editor
+do <i>Suplemento Literário de Minas Gerais</i>. Trabalhou também na Rede Minas
+de Televisão e foi editor do caderno de cultura do jornal <i>Hoje em Dia</i>, em Belo
+Horizonte. Tem poemas publicados em mais de vinte antologias, no país e
+no exterior, entre elas, <i>Nothing the sun could not explain</i> (</i>20 Contemporary
+Brazilian Poets</i>) – editada pela Sun & Moon Press (USA, Los Angeles,
+1997; 2a edição, 2003). Atualmente, escreve num blog de cultura da revista
+eletrônica <i>Dom total</i>."
+    book: carlos_avila
+    active: false
+    img_active: carlos1.png
+    img_inactive: carlos2.png
+    img_big: carlos.jpg
+    credit: Thais Guimarães
+  chacal:
+    name: Chacal
+    bio: "<b>Chacal</b>, Ricardo de Carvalho Duarte, nasceu no Rio
+de Janeiro em maio de 1951. Publicou em mimeógrafo,
+em 1971: <i>Muito prazer, Ricardo</i>. Em 72, <i>Preço da passagem</i>,
+dando início à poesia marginal no Brasil. Chacal é
+criador e produtor do Centro de Experimentação
+Poética – Cep 20.000 – um acontecimento multimídia
+mensal, que há 23 anos revela nomes no cenário
+musical, poético e dramático do Rio. Chacal lançou
+14 livros. Em 2007, <i>Belvedere</i>, suas poesias reunidas,
+pela Editora Cosacnaify (Prêmio APCA 2008). Em
+2010, publicou suas memórias pela editora 7 Letras
+em <i>Uma história à margem</i>. Em 2012 saiu pela Companhia
+das Letras, o livro para adolescentes, <i>Murundum</i>.
+Em 2012, estreou como ator e autor, o monólogo
+autobiográfico <i>Uma história à margem</i>."
+    book: chacal
+    active: true
+    img_active: chacal1.png
+    img_inactive: chacal2.png
+    img_big: chacal.jpg
+    credit: Edson Kumasaka
+  douglas_diegues:
+    name: Douglas Diegues
+    bio: "<b>Douglas Diegues</b> publicou, entre outros, <i>Da gusto andar desnudo por estas selvas –
+Sonetos salvajes</i> (Travessa dos Editores, Curitiba-PR, 2003) e <i>Uma flor na solapa da
+miséria</i> (Eloisa Cartonera, Buenos Aires, 2005). Escreve no blog
+<a href='http://www.portunholselvagem.blogspot.com' target='_blank'>www.portunholselvagem.blogspot.com</a>."
+    book: douglas_diegues
+    active: false
+    img_active: douglas1.png
+    img_inactive: douglas2.png
+    img_big: douglas.jpg
+    credit: Divulgação
+  fabiano_calixto:
+    name: Fabiano Calixto
+    bio: "<b>Fabiano Calixto</b> nasceu em Garanhuns (PE), em 1973. É doutorando em Teoria
+Literária e Literatura Comparada pela Universidade de São Paulo, USP. Publicou
+<i>Algum</i> (edição do autor, 1998), <i>Fábrica</i> (Alpharrabio Edições, 2000), <i>Um mundo só
+para cada par</i> (Alpharrabio Edições, 2001), <i>Música possível</i> (CosacNaify/7Letras,
+2006), <i>Sangüínea</i> (Editora 34, 2007), <i>A canção do vendedor de pipocas</i> (7Letras,
+2013), <i>Para ninar o nosso naufrágio</i> (Corsário-Satã, 2013), <i>Equatorial</i> (Tinta-da-
+China, 2014) e <i>Nominata morfina</i> (Córrego/Corsário-Satã/Pitomba, 2014)."
+    book: fabiano_calixto
+    active: true
+    img_active: fabiano1.png
+    img_inactive: fabiano2.png
+    img_big: fabiano.jpg
+    credit: Regiane Coelho
+  fabricio_marques:
+    name: Fabrício Marques
+    bio: "<b>Fabrício Marques</b> é da safra de 1965, de Manhuaçu, MG. Mora em Belo
+Horizonte desde 1992. Publicou três livros de poesia: <i>Samplers</i> (Relume
+Dumará, 2000), <i>Meu pequeno fim</i> (Scriptum, 2002) e <i>A fera incompletude</i>
+(Dobra, 2011, finalista dos prêmios Jabuti e Portugal Telecom)."
+    book: fabricio_marques
+    active: false
+    img_active: fabricio1.png
+    img_inactive: fabricio2.png
+    img_big: fabricio.jpg
+    credit: Guilherme Bergamini
+  jovino_machado:
+    name: Jovino Machado
+    bio: "<b>Jovino Machado</b> nasceu em Formiga, MG, em 1963. Foi criado em Montes Claros
+e vive em Belo Horizonte. Publicou treze livros de poemas: <i>Só poesias</i> (1981), <i>Em
+cantos e versos</i> (1982), <i>Uma mordida para cada língua</i> (1985), <i>Deselegância discreta</i>
+(1993), <i>Trint'anos proust'anos</i> (1995), <i>Disco</i> (1998), <i>Samba</i> (1999), <i>Balacobaco</i>
+(2002), <i>Fratura exposta</i> (2005), <i>Meu bar meu lar</i> (2009) <i>Cor de cadáver</i> (2009),
+<i>Amar é abanar o rabo</i> (2009) e <i>Cantigas de amor & maldizer</i> (2013)."
+    book: jovino_machado
+    active: false
+    img_active: jovino1.png
+    img_inactive: jovino2.png
+    img_big: jovino.jpg
+    credit: Daniel Bilac
+  leo_goncalves:
+    name: Leo Gonçalves
+    bio: "<b>Leo Gonçalves</b> (BH, 1975) é poeta e tradutor. Autor de <i>Use o assento para
+flutuar</i> e <i>das Infimidades</i>."
+    active: true
+    img_active: leo1.png
+    img_inactive: leo2.png
+    img_big: leo.jpg
+    credit: Raquel Diniz
+    star: true
+  luiz_roberto_guedes:
+    name: Luiz Roberto Guedes
+    bio: "Poeta, escritor e tradutor, <b>Luiz Roberto Guedes</b> é autor de <i>Calendário
+lunático/Erotografia de Ana K</i>, (2000), da novela histórica <i>O mamaluco
+voador</i> (2006), de <i>Minima immoralia/Dirty limerix</i> (2007) e do livro de
+contos <i>Alguém para amar no fim de semana</i> (2010). Organizou <i>Paixão
+por São Paulo</i>, antologia poética paulistana (2004), e publicou vários
+livros juvenis, como <i>Armadilha para lobisomem</i> (2005), <i>O caçador do
+arco-íris</i> (2007). <i>Meu mestre de história sobrenatural</i> (2008) e <i>Planeta
+bicho</i> — <i>Um almanaque animal</i> (2011), poemas para crianças.
+Letrista, sob o pseudônimo de <b>Paulo Flexa</b>, assina parcerias com
+vários compositores como Luiz Guedes & Thomas Roth, Beto Guedes,
+Ivaldo Moreira e Madan, entre outros. Seus livros <i>Treze noites de
+terror</i> e <i>O livro das mákinas malukas</i> foram adotados pelo PNBE —
+Plano Nacional Biblioteca na Escola. Nasceu e vive em São Paulo."
+    active: false
+    img_active: luiz1.png
+    img_inactive: luiz2.png
+    img_big: luiz.jpg
+    credit: Eduardo Amaral
+  makely_ka:
+    name: Makely Ka
+    bio: "<b>Makely Ka</b> é poeta e compositor. Possui artigos e poemas publicados nos jornais
+<i>Suplemento Literário de Minas Gerais</i>, <i>Estado de Minas</i>, <i>Hoje em dia</i> e nas revistas
+<i>Almanaque Brasil, Etcétera, Continuum</i> (Itaú Cultural), <i>Vermelho e Overmundo</i>,
+entre outras. É colaborador também em diversas publicações eletrônicas,
+com textos, poemas e entrevistas. Em 1998, estreou com o livro de poemas
+<i>Objeto livro</i> (Edição do Autor), com tiragem esgotada. O livro <i>Ego excêntrico</i>,
+acompanhado do CD <i>Poemas de ouvido</i>, chegou ao mercado em 2003. Editou a
+<i>Revista de Autofagia</i>, ao lado de Bruno Brum, entre 2006 e 2009, voltada para
+a publicação de textos, fotos e entrevistas de novos criadores. Lançou os discos
+<i>A outra cidade</i>, em 2003, ao lado dos parceiros Kristoff Silva e Pablo Castro, e
+<i>Danaide</i>, em 2006, com a cantora Maísa Moura. O primeiro trabalho solo veio
+em 2008, com <i>Autófago</i>. Em 2014, lançou o álbum <i>Cavalo motor</i>, resultado de
+uma longa viagem realizada pela região noroeste de Minas Gerais, na divisa entre
+Bahia e Goiás. O novo disco tem participação de Arto Lindsay, Susana Salles,
+Décio Ramos (UAKTI), O Grivo, entre outros. Organizou mostras e festivais,
+participou de curadorias, produziu discos de outros artistas, fez direção artística
+de shows, criou trilhas para cinema, dança e teatro, realizou documentários,
+compôs textos para peças sinfônicas e camerísticas, participou de conselhos
+estaduais e federais de cultura, fundou cooperativas e fóruns de música, realizou
+palestras e oficinas e publicou diversos textos sobre política cultural, música,
+literatura e cinema."
+    active: false
+    img_active: makely1.png
+    img_inactive: makely2.png
+    img_big: makely.jpg
+    credit: Marco Antônio Gonsalves Jr
+  marcello_sahea:
+    name: Marcello Sahea
+    bio: "<b>Marcello Sahea</b> é poeta, performer, artista visual e sonoro. Publicou três livros:
+<i>Carne viva</i>, <i>Leve e Nada a dizer</i>, além do álbum/CD virtual <i>Pletórax</i>. Publicou em
+coletâneas, catálogos, livros didáticos, rádio, jornais e revistas de literatura e arte.
+Realizou exposições de poesia visual e participou de exposições de arte digital, poesia
+sonora, visual e videopoesia, no Brasil, em Portugal, Londres e na Eslovênia. Como
+performer, já se apresentou em palcos do Brasil e da Europa."
+    active: false
+    img_active: marcelosahea1.png
+    img_inactive: marcelosahea2.png
+    img_big: marcelosahea.jpg
+    credit: Divulgação
+  marcelo_dolabela:
+    name: Marcelo Dolabela
+    bio: "<b>Marcelo Dolabela</b> nasceu em Lajinha (MG), em 1957. É
+poeta, compositor e pesquisador (música e poesia). Mestre em
+comunicação pela Universidade São Marcos. Principais livros:
+<i>Coração malasarte</i> (1980), <i>Radicais</i> (1985), <i>ABZ do rock brasileiro</i>
+(1987), <i>Breve história da música de Belo Horizonte</i> (1993), <i>Hai
+kaixa</i> (1993), <i>Poeminhas & outros poemas</i> (1998), <i>Lorem ipsus
+– Antologia poética & outros poemas</i> (2006). Fez roteiro para
+os filmes: <i>Arnaldo Baptista – Maldito Popular Brasileiro e Plano
+sequência</i>, ambos de Patrícia Moran; <i>Uakti – Oficina instrumental e
+A hora vagabunda</i>, ambos de Rafael Conde. Como diretor, lançou
+o filme <i>Sábado da carne</i>. Lidera o grupo Divergência Socialista.
+Produziu e apresentou os programas Rock Molotov, na Rádio
+Liberdade FM, Vitrola do Dolabela e Letra Elétrika, ambos na Rádio
+Lagoinha FM. Lançou, em 2013, o CD <i>Substância: Divergência
+Socialista</i> – Marcelo Dolabela & parceiros. Realizou, em 2012, a
+exposição <i>A história do rock brasileiro em 1000 discos</i>, e, em 2014,
+as exposições <i>50 discos que você precisa ouvir para entender o
+Golpe Militar</i> (1964-1985) e <i>Rock no Circuito</i>."
+    active: active
+    img_active: marcelodolabela1.png
+    img_inactive: marcelodolabela2.png
+    img_big: marcelodolabela.jpg
+    credit: Túlio Travaglia
+  marcelo_montenegro:
+    name: Marcelo Montenegro
+    bio: "<b>Marcelo Montenegro</b> (São Caetano do Sul, SP, 1971) é autor de <i>Orfanato portátil</i>
+(Atrito Art, PR, 2003/Annablume, SP, 2012) e <i>Garagem lírica</i> (Annablume, 2012).
+Trabalha como roteirista, tendo escrito para a HBO, a Sony, a Globo e a MTV,
+entre outros, e como técnico de luz e som em teatro. Já trabalhou com diversos
+diretores, como Fauzi Arap, Mario Bortolotto, Marcelo Rubens Paiva e Hugo Possolo.
+Apresenta-se, desde 2004, com o espetáculo <i>Tranqueiras líricas</i>, no qual seus poemas
+falados se fundem ao rock’n’roll, ao blues e ao jazz."
+    active: false
+    img_active: marcelomontenegro1.png
+    img_inactive: marcelomontenegro2.png
+    img_big: marcelomontenegro.jpg
+    credit: Paola de Orte
+  maria_rezende:
+    name: Maria Rezende
+    bio: "<b>Maria Rezende</b> é poeta, dizedora de poesia e montadora de cinema. Publicou os livros
+<i>Carne do umbigo</i> (2014), <i>Bendita palavra</i> (2008) e <i>Substantivo feminino</i> (2003). Teve
+poemas publicados na revista <i>Playboy</i>, <i>Poesia Sempre</i>, da Biblioteca Nacional, e na
+antologia <i>Imagining ourselves</i>, do Internacional Museum of Women de São Francisco.
+Faz parte do coletivo Ornitorrinco e já se apresentou em diversos palcos do Brasil e de
+Portugal."
+    active: true
+    img_active: maria1.png
+    img_inactive: maria2.png
+    img_big: maria.jpg
+    credit: Camilo Lobo
+    star: true
+  mônica_de_aquino:
+    name: Mônica de Aquino
+    bio: "<b>Mônica de Aquino</b> estreou na poesia com <i>Sístole</i>, livro publicado em 2005 pela editora carioca
+Bem-te-vi. De lá pra cá, foram vários os convites para participar de eventos, coletâneas e
+antologias, como o volume <i>Poetas da década de 2000</i> da coleção Roteiro de Poesia Brasileira.
+Publicou, também, em importantes periódicos como o <i>Suplemento Literário de Minas Gerais</i>,
+a revista <i>Poesia Sempre</i>, da Biblioteca Nacional, e a revista <i>Piauí</i>. Seu primeiro livro infantil,
+<i>Fio da Memória</i>, lançado em 2012 pela editora Miguilim, foi adotado pelo Programa Livros na
+Sala de Aula do Estado de São Paulo. Em 2014, lançou <i>Muitos jeitos de contar uma história</i>,
+também pela Miguilim. <i>Fundo falso</i>, seu segundo livro de poesia, inclui os poemas vencedores
+do Prêmio Cidade de Belo Horizonte de 2013 e será lançado em breve. Mônica está envolvida
+em dois projetos de livro de texto e imagem, um deles em parceria com a ceramista e
+professora Laila Kierulff."
+    active: false
+    img_active: monica1.png
+    img_inactive: monica2.png
+    img_big: monica.jpg
+    credit: Divulgação
+  nicolas_behr:
+    name: Nicolas Behr
+    bio: "<b>Nicolas Behr</b> ( Nikolaus von Behr) nasceu em 1958, em Cuiabá, MT, e vive em Brasilia
+desde 1974. Publica livros de poesia desde 1977. Preso no ano seguinte, pelo DOPS,
+foi julgado e absolvido em 1979. Atuou como publicitário e hoje é produtor de mudas,
+ecologista. Lançou <i>Laranja seleta – poesia escolhida</i> (1977 – 2007) pela Língua Geral
+e foi finalista do Prêmio Portugal Telecom de Literatura em 2008. Sua obra tem sido
+objeto de várias dissertações de mestrado e documentários. Participa ativamente de
+encontros literários pelo Brasil. Adora Brasília. <a href='http://www.nicolasbehr.com.br' target='_blank'>www.nicolasbehr.com.br</a>"
+    active: true
+    img_active: nicolas1.png
+    img_inactive: nicolas2.png
+    img_big: nicolas.jpg
+    credit: Nilson Carvalho
+  paulo_scott:
+    name: Paulo Scott
+    bio: "<b>Paulo Scott</b> é autor de cinco livros de poemas, sendo o mais recente intitulado <i>Mesmo
+sem dinheiro comprei um esqueite novo</i>, publicado pelo selo de poesia contemporânea
+da Companhia das Letras; e de quatro livros de prosa, entre eles o de contos <i>Ainda
+orangotangos</i>, originalmente publicado pela editora Livros do Mal, posteriormente
+adaptado para o cinema pelo diretor Gustavo Spolidoro, longa-metragem vencedor
+do 13º Festival de Cinema de Milão. É também autor do romance <i>Habitante irreal</i>,
+publicado pela Alfaguara, livro vencedor do Prêmio da Fundação Biblioteca
+Nacional, publicado também na Alemanha, em Portugal, na Inglaterra e nos Estados
+Unidos."
+    active: false
+    img_active: paulo1.png
+    img_inactive: paulo2.png
+    img_big: paulo.jpg
+    credit: Arquivo do autor
+  renato_negrao:
+    name: Renato Negrão
+    bio: "<b>Renato Negrão</b> é poeta e compositor, artista visual e educador na escola
+de arte e tecnologia OI Kabum! Pesquisa as relações entre palavra e
+imagem, valendo-se de aspectos da linguagem poética e de estratégias da
+arte contemporânea como legado pedagógico para a educação, recebendo
+por este trabalho o prêmio Itaú Rumos educação, cultura e arte 2008/2010.
+Realiza performances em diversos festivais pelo Brasil. Parcerias musicais
+com Makely Ka, Estrela Leminski e Kristoff SIlva, entre outros. Possui quatro
+livros publicados, entre eles, <i>Vicente viciado</i> (2012). Seus trabalhos podem
+ser vistos no sitio <a href='http://www.renatonegrao.com' target='_blank'>www.renatonegrao.com</a>"
+    active: false
+    img_active: renato1.png
+    img_inactive: renato2.png
+    img_big: renatonegrao.jpg
+    credit: Bruno Amarantes
+  reuben_da_cunha_rocha:
+    name: Reuben da Cunha Rocha
+    bio: "<b>cavaloDada</b>, vulgo Reuben da Cunha Rocha (São Luís/MA, 1984), escreveu
+os livros <i>Miragem no olho aceso</i> e <i>As aventuras de cavaloDada em +
+realidades q canais de TV</i>. Edita as revistas <i>Pitomba!</i> e <i>Randomia</i>."
+    active: false
+    img_active: reuben1.png
+    img_inactive: reuben2.png
+    img_big: reuben.jpg
+    credit: Divulgação
+  simone_andrade_neves:
+    name: Simone Andrade Neves
+    bio: "<b>Simone Andrade Neves</b> é poeta. Publicou <i>O coração como engrenagem</i> (edição
+do autor, 1994). Tem publicações no <i>Suplemento Literário de Minas Gerais</i>, na revista
+<i>Poesia Sempre</i>, da Fundação Biblioteca Nacional, na revista Mininas e na coletânea d
+<i>Pelada poética</i> (Scriptum, BH)."
+    active: false
+    img_active: simone1.png
+    img_inactive: simone2.png
+    img_big: simone.jpg
+    credit: Divulgação
+  thais_guimaraes:
+    name: Thaís Guimarães
+    bio: "<b>Thais Guimarães</b> é mineira, nascida no Ceará há 53 anos. Autora dos livros <i>Jogo de
+cintura</i> (Dubolso, BH, 1983), <i>Dez pretextos para uma noite de solidão</i> (Gatinhos, BH,
+1983) e <i>Bom dia, Ana Maria</i> (Vigília, BH, 1987, Prêmio Jabuti de Melhor Produção
+Editorial Infantil e/ou Juvenil). Tem poemas publicados em diversos jornais, revistas e
+antologias."
+    active: true
+    img_active: thais1.png
+    img_inactive: thais2.png
+    img_big: thais.jpg
+    credit: Divulgação
+

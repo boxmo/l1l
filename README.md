@@ -15,7 +15,7 @@
 * Google Analytics (async)
 
 ### Installation ###
- 
+
 Clone **middleman-hamlsasscoffee** into `~/.middleman`. You will need to create this directory if it doesn't exist.
 ```$ git clone git://github.com/pixelsonly/middleman-hamlsasscoffee.git ~/.middleman/middleman-hamlsasscoffee```
 
@@ -48,3 +48,17 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+pass: wyQRc6eqT?Oy
+
+mail: *tLZck8#K5[3
+
+
+
+as setas nos livros
+os nomes dos autores ficarem amarelos quando passa o mouse
+ícones das redes sociais na seção de créditos
+
+tirar 12 de BH e 12 de outras cidades
