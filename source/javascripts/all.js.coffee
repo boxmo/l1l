@@ -2,7 +2,7 @@ $ ->
   feed = new Instafeed
     get: "tagged"
     tagName: "leve1livro"
-    limit: 28
+    limit: 41
     clientId: "2ae004387f59459bad55b05cc9511fbd"
     template: '<a href="{{link}}" target="_blank"><img src="{{image}}" width="80px"/></a>'
 

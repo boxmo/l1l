@@ -64,7 +64,7 @@ books:
     link: "http://migre.me/plqVq"
   leo_goncalves:
     name: "Da cusparada"
-    author: Léo Gonçalves
+    author: Leo Gonçalves
     public: true
     released_at: Abril 2015
     img: leo_goncalves.jpg
@@ -84,19 +84,19 @@ books:
     img: embreve.jpg
     link: "#"
   amarildo_anzolin:
-    name: "..."
+    name: "Brechó de camelos"
     author: Amarildo Anzolin
-    public: false
-    released_at: 20/10/2014
-    img: embreve.jpg
-    link: "#"
+    public: true
+    released_at: Maio 2015
+    img: amarildo_anzolin.jpg
+    link: "http://migre.me/pGVqi"
   mônica_de_aquino:
-    name: "..."
+    name: "A dor como método"
     author: Mônica de Aquino
-    public: false
-    released_at: 20/10/2014
-    img: embreve.jpg
-    link: "#"
+    public: true
+    released_at: Maio 2015
+    img: monica_aquino.jpg
+    link: "http://migre.me/pGVrA"
   caio_camacho:
     name: "..."
     author: Caio Camacho
@@ -177,11 +177,12 @@ Publicou <i>Evite permanecer nesta área</i> (2012), <i>Cânone</i> (DVD, 2007),
 CD, 2003), <i>Única coisa</i> (livro-CD-vídeo, 2000), <i>Igual</i> (1998) e <i>Co-lapso</i> (1995). Vive em
 São Paulo."
     book: amarildo_anzolin
-    active: false
+    active: true
     img_active: amarildo1.png
     img_inactive: amarildo2.png
     img_big: amarildo.jpg
     credit: Renato Larini
+    star: true
   ana_bruno:
     name: Ana Elisa Ribeiro / Bruno Brum
     bio: "<b>Ana Elisa Ribeiro</b> é poeta e cronista, além de autora de livros infantojuvenis. Na
@@ -349,7 +350,6 @@ flutuar</i> e <i>das Infimidades</i>."
     img_inactive: leo2.png
     img_big: leo.jpg
     credit: Raquel Diniz
-    star: true
   luiz_roberto_guedes:
     name: Luiz Roberto Guedes
     bio: "Poeta, escritor e tradutor, <b>Luiz Roberto Guedes</b> é autor de <i>Calendário
@@ -463,7 +463,6 @@ Portugal."
     img_inactive: maria2.png
     img_big: maria.jpg
     credit: Camilo Lobo
-    star: true
   mônica_de_aquino:
     name: Mônica de Aquino
     bio: "<b>Mônica de Aquino</b> estreou na poesia com <i>Sístole</i>, livro publicado em 2005 pela editora carioca
@@ -477,11 +476,12 @@ também pela Miguilim. <i>Fundo falso</i>, seu segundo livro de poesia, inclui o
 do Prêmio Cidade de Belo Horizonte de 2013 e será lançado em breve. Mônica está envolvida
 em dois projetos de livro de texto e imagem, um deles em parceria com a ceramista e
 professora Laila Kierulff."
-    active: false
+    active: true
     img_active: monica1.png
     img_inactive: monica2.png
     img_big: monica.jpg
     credit: Divulgação
+    star: true
   nicolas_behr:
     name: Nicolas Behr
     bio: "<b>Nicolas Behr</b> ( Nikolaus von Behr) nasceu em 1958, em Cuiabá, MT, e vive em Brasilia
