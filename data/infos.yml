@@ -105,12 +105,12 @@ books:
     img: embreve.jpg
     link: "#"
   marcelo_montenegro:
-    name: "..."
+    name: "Postal"
     author: Marcelo Montenegro
-    public: false
-    released_at: 20/10/2014
-    img: embreve.jpg
-    link: "#"
+    public: true
+    released_at: Junho 2015
+    img: marcelo_montenegro.jpg
+    link: "http://migre.me/q4U3P"
   simone_andrade_neves:
     name: "..."
     author: Simone Andrade Neves
@@ -140,12 +140,12 @@ books:
     img: embreve.jpg
     link: "#"
   ana_bruno:
-    name: "..."
+    name: "Marmelada"
     author: Ana Elisa Ribeiro / Bruno Brum
-    public: false
-    released_at: 20/10/2014
-    img: embreve.jpg
-    link: "#"
+    public: true
+    released_at: Junho 2015
+    img: ana_bruno.jpg
+    link: "http://migre.me/q4U7O"
   jovino_machado:
     name: "..."
     author: Jovino Machado
@@ -182,7 +182,6 @@ São Paulo."
     img_inactive: amarildo2.png
     img_big: amarildo.jpg
     credit: Renato Larini
-    star: true
   ana_bruno:
     name: Ana Elisa Ribeiro / Bruno Brum
     bio: "<b>Ana Elisa Ribeiro</b> é poeta e cronista, além de autora de livros infantojuvenis. Na
@@ -210,7 +209,8 @@ mídia impressa e virtual. Para mais informações sobre o autor,
 acesse: <a href='http://www.brunobrum.net' target='_blank'>www.brunobrum.net</a>.
 "
     book: ana_bruno
-    active: false
+    active: true
+    star: true
     img_active: anabruno1.png
     img_inactive: anabruno2.png
     img_big: anabruno.jpg
@@ -445,11 +445,12 @@ entre outros, e como técnico de luz e som em teatro. Já trabalhou com diversos
 diretores, como Fauzi Arap, Mario Bortolotto, Marcelo Rubens Paiva e Hugo Possolo.
 Apresenta-se, desde 2004, com o espetáculo <i>Tranqueiras líricas</i>, no qual seus poemas
 falados se fundem ao rock’n’roll, ao blues e ao jazz."
-    active: false
+    active: true
     img_active: marcelomontenegro1.png
     img_inactive: marcelomontenegro2.png
     img_big: marcelomontenegro.jpg
     credit: Paola de Orte
+    star: true
   maria_rezende:
     name: Maria Rezende
     bio: "<b>Maria Rezende</b> é poeta, dizedora de poesia e montadora de cinema. Publicou os livros
@@ -481,7 +482,6 @@ professora Laila Kierulff."
     img_inactive: monica2.png
     img_big: monica.jpg
     credit: Divulgação
-    star: true
   nicolas_behr:
     name: Nicolas Behr
     bio: "<b>Nicolas Behr</b> ( Nikolaus von Behr) nasceu em 1958, em Cuiabá, MT, e vive em Brasilia
