@@ -110,7 +110,9 @@
               = image_tag "autores/mini/#{author[:img_active]}", alt: author[:name], class: "img-circle center-align"
               - if author[:star]
                 .star-ribbon
-              .author-name.text-center= author[:name]
+              .author-name.text-center
+                = status_bullet(data.infos.books[key][:public])
+                = author[:name]
 
 
 

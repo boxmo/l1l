@@ -36,14 +36,16 @@
 ###
 # Helpers
 ###
-
+# Find me in lib/custom_helpers.rb
+require "lib/custom_helpers"
+helpers CustomHelpers
 # Automatic image dimensions on image_tag helper
 # activate :automatic_image_sizes
 
 # Methods defined in the helpers block are available in templates
 # helpers do
-#   def some_helper
-#     "Helping"
+#   def status_bullet bol
+#     status = bol ? "public" : ""
 #   end
 # end
 
