@@ -1,12 +1,12 @@
 module CustomHelpers
 
   def status_bullet bol
-    status = bol ? "active" : "inactive"
-    icon = bol ? "circle" : "circle-o"
-    klass = "tip "
-    klass += bol ? "bullet-active" : "bullet-inactive"    
-    message = data.messages[status]
-    icon(icon, "", class: klass, title: message)
+    if bol
+      icon = "circle"
+      klass = "tip bullet active"
+      message = data.messages[:active]
+      icon(icon, "", class: klass, title: message)
+    end
   end
 
   def icon(icon, text="", html_options={})

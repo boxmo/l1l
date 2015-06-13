@@ -208,6 +208,7 @@ nav.section-nav
   .author-trigger
     text-decoration: none
     width: 250px
+    height: 190px
     position: relative
     .star-ribbon
       background: url(image_path("ribbon.png")) no-repeat 0 0 transparent
@@ -220,12 +221,12 @@ nav.section-nav
   .author-name
     text-align: center
     font-size: 18px
-    .bullet-active
-      font-size: 10px
-      color: $green
-    .bullet-inactive
-      font-size: 10px
-      color: $gray
+    .bullet
+      font-size: 18px      
+      &.active
+        color: $green
+      &.inactive
+        color: $gray
 
 
 .og-expander
