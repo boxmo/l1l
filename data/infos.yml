@@ -97,13 +97,6 @@ books:
     released_at: Maio 2015
     img: monica_aquino.jpg
     link: "http://migre.me/pGVrA"
-  caio_camacho:
-    name: "..."
-    author: Caio Camacho
-    public: false
-    released_at: 20/10/2014
-    img: embreve.jpg
-    link: "#"
   marcelo_montenegro:
     name: "Postal"
     author: Marcelo Montenegro
@@ -114,20 +107,6 @@ books:
   simone_andrade_neves:
     name: "..."
     author: Simone Andrade Neves
-    public: false
-    released_at: 20/10/2014
-    img: embreve.jpg
-    link: "#"
-  douglas_diegues:
-    name: "..."
-    author: Douglas Diegues
-    public: false
-    released_at: 20/10/2014
-    img: embreve.jpg
-    link: "#"
-  makely_ka:
-    name: "..."
-    author: Makely Ka
     public: false
     released_at: 20/10/2014
     img: embreve.jpg
@@ -146,13 +125,34 @@ books:
     released_at: Junho 2015
     img: ana_bruno.jpg
     link: "http://migre.me/q4U7O"
+  caio_camacho:
+    name: "Uma rua chamada buraco quente"
+    author: Caio Camacho
+    public: true
+    released_at: Julho 2015
+    img: caio_camacho.jpg
+    link: "http://migre.me/qAba7"
+  makely_ka:
+    name: "Retorno de saturno"
+    author: Makely Ka
+    public: true
+    released_at: "Julho 2015"
+    img: makely_ka.jpg
+    link: "http://migre.me/qAbcx"
+  douglas_diegues:
+    name: "Sem pátria sem patrón y sem patrona"
+    author: Douglas Diegues
+    public: true
+    released_at: Setembro 2015
+    img: douglas_diegues.jpg
+    link: "http://migre.me/rBnWZ"
   jovino_machado:
-    name: "..."
+    name: "Meu jeito bêbado de ser"
     author: Jovino Machado
-    public: false
-    released_at: 20/10/2014
-    img: embreve.jpg
-    link: "#"
+    public: true
+    released_at: Setembro 2015
+    img: jovino_machado.jpg
+    link: "http://migre.me/rBo2K"
   reuben_da_cunha_rocha:
     name: "..."
     author: Reuben da Cunha Rocha
@@ -210,7 +210,6 @@ acesse: <a href='http://www.brunobrum.net' target='_blank'>www.brunobrum.net</a>
 "
     book: ana_bruno
     active: true
-    star: true
     img_active: anabruno1.png
     img_inactive: anabruno2.png
     img_big: anabruno.jpg
@@ -237,7 +236,7 @@ no blog Noutratez (<a href='http://noutratez.zip.net' target='_blank'>noutratez.
 Cultural (<a href='http://picaretacultural.blogspot.com' target='_blank'>picaretacultural.blogspot.com</a>) e é um dos curadores da OFF FLIP de Paraty
 (<a href='http://offflip.paraty.com' target='_blank'>offflip.paraty.com</a>)."
     book: caio_camacho
-    active: false
+    active: true
     img_active: caio1.png
     img_inactive: caio2.png
     img_big: caio.jpg
@@ -295,11 +294,12 @@ Sonetos salvajes</i> (Travessa dos Editores, Curitiba-PR, 2003) e <i>Uma flor na
 miséria</i> (Eloisa Cartonera, Buenos Aires, 2005). Escreve no blog
 <a href='http://www.portunholselvagem.blogspot.com' target='_blank'>www.portunholselvagem.blogspot.com</a>."
     book: douglas_diegues
-    active: false
+    active: true
     img_active: douglas1.png
     img_inactive: douglas2.png
     img_big: douglas.jpg
     credit: Divulgação
+    star: true
   fabiano_calixto:
     name: Fabiano Calixto
     bio: "<b>Fabiano Calixto</b> nasceu em Garanhuns (PE), em 1973. É doutorando em Teoria
@@ -336,11 +336,12 @@ cantos e versos</i> (1982), <i>Uma mordida para cada língua</i> (1985), <i>Dese
 (2002), <i>Fratura exposta</i> (2005), <i>Meu bar meu lar</i> (2009) <i>Cor de cadáver</i> (2009),
 <i>Amar é abanar o rabo</i> (2009) e <i>Cantigas de amor & maldizer</i> (2013)."
     book: jovino_machado
-    active: false
+    active: true
     img_active: jovino1.png
     img_inactive: jovino2.png
     img_big: jovino.jpg
     credit: Daniel Bilac
+    star: true
   leo_goncalves:
     name: Leo Gonçalves
     bio: "<b>Leo Gonçalves</b> (BH, 1975) é poeta e tradutor. Autor de <i>Use o assento para
@@ -393,7 +394,7 @@ compôs textos para peças sinfônicas e camerísticas, participou de conselhos
 estaduais e federais de cultura, fundou cooperativas e fóruns de música, realizou
 palestras e oficinas e publicou diversos textos sobre política cultural, música,
 literatura e cinema."
-    active: false
+    active: true
     img_active: makely1.png
     img_inactive: makely2.png
     img_big: makely.jpg
@@ -450,7 +451,6 @@ falados se fundem ao rock’n’roll, ao blues e ao jazz."
     img_inactive: marcelomontenegro2.png
     img_big: marcelomontenegro.jpg
     credit: Paola de Orte
-    star: true
   maria_rezende:
     name: Maria Rezende
     bio: "<b>Maria Rezende</b> é poeta, dizedora de poesia e montadora de cinema. Publicou os livros
@@ -561,4 +561,3 @@ antologias."
     img_inactive: thais2.png
     img_big: thais.jpg
     credit: Divulgação
-
