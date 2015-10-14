@@ -76,13 +76,6 @@ books:
     released_at: 20/10/2014
     img: embreve.jpg
     link: "#"
-  carlos_avila:
-    name: "..."
-    author: Carlos Ávila
-    public: false
-    released_at: 20/10/2014
-    img: embreve.jpg
-    link: "#"
   amarildo_anzolin:
     name: "Brechó de camelos"
     author: Amarildo Anzolin
@@ -154,12 +147,20 @@ books:
     img: jovino_machado.jpg
     link: "http://migre.me/rBo2K"
   reuben_da_cunha_rocha:
-    name: "..."
+    name: "O astronauta cruza a rua"
     author: Reuben da Cunha Rocha
-    public: false
-    released_at: 20/10/2014
-    img: embreve.jpg
-    link: "#"
+    public: true
+    released_at: Outubro 2015
+    img: reuben_rocha.jpg
+    link: "http://migre.me/rL96e"
+  carlos_avila:
+    name: "Baudelaire sob o sol"
+    author: Carlos Ávila
+    public: true
+    released_at: Outubro 2015
+    img: carlos_avila.jpg
+    link: "http://migre.me/rL97h"
+    
   renato_negrao:
     name: "..."
     author: Renato Negrão
@@ -259,11 +260,12 @@ Brazilian Poets</i>) – editada pela Sun & Moon Press (USA, Los Angeles,
 1997; 2a edição, 2003). Atualmente, escreve num blog de cultura da revista
 eletrônica <i>Dom total</i>."
     book: carlos_avila
-    active: false
+    active: true
     img_active: carlos1.png
     img_inactive: carlos2.png
     img_big: carlos.jpg
     credit: Thais Guimarães
+    star: true
   chacal:
     name: Chacal
     bio: "<b>Chacal</b>, Ricardo de Carvalho Duarte, nasceu no Rio
@@ -299,7 +301,6 @@ miséria</i> (Eloisa Cartonera, Buenos Aires, 2005). Escreve no blog
     img_inactive: douglas2.png
     img_big: douglas.jpg
     credit: Divulgação
-    star: true
   fabiano_calixto:
     name: Fabiano Calixto
     bio: "<b>Fabiano Calixto</b> nasceu em Garanhuns (PE), em 1973. É doutorando em Teoria
@@ -341,7 +342,6 @@ cantos e versos</i> (1982), <i>Uma mordida para cada língua</i> (1985), <i>Dese
     img_inactive: jovino2.png
     img_big: jovino.jpg
     credit: Daniel Bilac
-    star: true
   leo_goncalves:
     name: Leo Gonçalves
     bio: "<b>Leo Gonçalves</b> (BH, 1975) é poeta e tradutor. Autor de <i>Use o assento para
@@ -533,11 +533,12 @@ ser vistos no sitio <a href='http://www.renatonegrao.com' target='_blank'>www.re
     bio: "<b>cavaloDada</b>, vulgo Reuben da Cunha Rocha (São Luís/MA, 1984), escreveu
 os livros <i>Miragem no olho aceso</i> e <i>As aventuras de cavaloDada em +
 realidades q canais de TV</i>. Edita as revistas <i>Pitomba!</i> e <i>Randomia</i>."
-    active: false
+    active: true
     img_active: reuben1.png
     img_inactive: reuben2.png
     img_big: reuben.jpg
     credit: Divulgação
+    star: true
   simone_andrade_neves:
     name: Simone Andrade Neves
     bio: "<b>Simone Andrade Neves</b> é poeta. Publicou <i>O coração como engrenagem</i> (edição
