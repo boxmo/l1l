@@ -69,13 +69,6 @@ books:
     released_at: Abril 2015
     img: leo_goncalves.jpg
     link: "http://migre.me/plqWB"
-  marcello_sahea:
-    name: "..."
-    author: Marcello Sahea
-    public: false
-    released_at: 20/10/2014
-    img: embreve.jpg
-    link: "#"
   amarildo_anzolin:
     name: "Brechó de camelos"
     author: Amarildo Anzolin
@@ -97,20 +90,6 @@ books:
     released_at: Junho 2015
     img: marcelo_montenegro.jpg
     link: "http://migre.me/q4U3P"
-  simone_andrade_neves:
-    name: "..."
-    author: Simone Andrade Neves
-    public: false
-    released_at: 20/10/2014
-    img: embreve.jpg
-    link: "#"
-  paulo_scott:
-    name: "..."
-    author: Paulo Scott
-    public: false
-    released_at: 20/10/2014
-    img: embreve.jpg
-    link: "#"
   ana_bruno:
     name: "Marmelada"
     author: Ana Elisa Ribeiro / Bruno Brum
@@ -160,14 +139,34 @@ books:
     released_at: Outubro 2015
     img: carlos_avila.jpg
     link: "http://migre.me/rL97h"
-    
+  marcello_sahea:
+    name: "Tectônico"
+    author: Marcello Sahea
+    public: true
+    released_at: Novembro 2015
+    img: marcelo_sahea.jpg
+    link: "http://migre.me/s5xeS"    
   renato_negrao:
-    name: "..."
+    name: "Hidrante"
     author: Renato Negrão
-    public: false
-    released_at: 20/10/2014
-    img: embreve.jpg
-    link: "#"
+    public: true
+    released_at: Novembro 2015
+    img: renato_negrao.jpg
+    link: "http://migre.me/s5xgg"
+  paulo_scott:
+    name: "Quase agora"
+    author: Paulo Scott
+    public: true
+    released_at: Dezembro 2015
+    img: paulo_scott.jpg
+    link: "http://migre.me/sgiFX"
+  simone_andrade_neves:
+    name: "Dor andorinha"
+    author: Simone Andrade Neves
+    public: true
+    released_at: Dezembro 2015
+    img: simone_andrade.jpg
+    link: "http://migre.me/sgiKF"
 
 authors:
   amarildo_anzolin:
@@ -265,7 +264,6 @@ eletrônica <i>Dom total</i>."
     img_inactive: carlos2.png
     img_big: carlos.jpg
     credit: Thais Guimarães
-    star: true
   chacal:
     name: Chacal
     bio: "<b>Chacal</b>, Ricardo de Carvalho Duarte, nasceu no Rio
@@ -407,7 +405,7 @@ coletâneas, catálogos, livros didáticos, rádio, jornais e revistas de litera
 Realizou exposições de poesia visual e participou de exposições de arte digital, poesia
 sonora, visual e videopoesia, no Brasil, em Portugal, Londres e na Eslovênia. Como
 performer, já se apresentou em palcos do Brasil e da Europa."
-    active: false
+    active: true
     img_active: marcelosahea1.png
     img_inactive: marcelosahea2.png
     img_big: marcelosahea.jpg
@@ -507,11 +505,12 @@ do 13º Festival de Cinema de Milão. É também autor do romance <i>Habitante i
 publicado pela Alfaguara, livro vencedor do Prêmio da Fundação Biblioteca
 Nacional, publicado também na Alemanha, em Portugal, na Inglaterra e nos Estados
 Unidos."
-    active: false
+    active: true
     img_active: paulo1.png
     img_inactive: paulo2.png
     img_big: paulo.jpg
     credit: Arquivo do autor
+    star: true
   renato_negrao:
     name: Renato Negrão
     bio: "<b>Renato Negrão</b> é poeta e compositor, artista visual e educador na escola
@@ -523,7 +522,7 @@ Realiza performances em diversos festivais pelo Brasil. Parcerias musicais
 com Makely Ka, Estrela Leminski e Kristoff SIlva, entre outros. Possui quatro
 livros publicados, entre eles, <i>Vicente viciado</i> (2012). Seus trabalhos podem
 ser vistos no sitio <a href='http://www.renatonegrao.com' target='_blank'>www.renatonegrao.com</a>"
-    active: false
+    active: true
     img_active: renato1.png
     img_inactive: renato2.png
     img_big: renatonegrao.jpg
@@ -538,18 +537,18 @@ realidades q canais de TV</i>. Edita as revistas <i>Pitomba!</i> e <i>Randomia</
     img_inactive: reuben2.png
     img_big: reuben.jpg
     credit: Divulgação
-    star: true
   simone_andrade_neves:
     name: Simone Andrade Neves
     bio: "<b>Simone Andrade Neves</b> é poeta. Publicou <i>O coração como engrenagem</i> (edição
 do autor, 1994). Tem publicações no <i>Suplemento Literário de Minas Gerais</i>, na revista
 <i>Poesia Sempre</i>, da Fundação Biblioteca Nacional, na revista Mininas e na coletânea d
 <i>Pelada poética</i> (Scriptum, BH)."
-    active: false
+    active: true
     img_active: simone1.png
     img_inactive: simone2.png
     img_big: simone.jpg
     credit: Divulgação
+    star: true
   thais_guimaraes:
     name: Thaís Guimarães
     bio: "<b>Thais Guimarães</b> é mineira, nascida no Ceará há 53 anos. Autora dos livros <i>Jogo de

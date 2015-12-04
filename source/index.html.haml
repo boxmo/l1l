@@ -129,9 +129,6 @@
                 %img.inline{ "data-lazy" => image_path("books/#{book["img"]}") }
                 - if data.infos.authors[key][:star]
                   .book-star-ribbon
-          %div.text-center
-            = link_to "javascript:void(0)", class: "book-modal-trigger" do
-              %img.inline{ "data-lazy" => image_path("embreve.jpg") }
 
 %section.container-fluid#map
   .container
