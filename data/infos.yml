@@ -145,7 +145,7 @@ books:
     public: true
     released_at: Novembro 2015
     img: marcelo_sahea.jpg
-    link: "http://migre.me/s5xeS"    
+    link: "http://migre.me/s5xeS"
   renato_negrao:
     name: "Hidrante"
     author: Renato Negrão
@@ -496,15 +496,13 @@ encontros literários pelo Brasil. Adora Brasília. <a href='http://www.nicolasb
     credit: Nilson Carvalho
   paulo_scott:
     name: Paulo Scott
-    bio: "<b>Paulo Scott</b> é autor de cinco livros de poemas, sendo o mais recente intitulado <i>Mesmo
-sem dinheiro comprei um esqueite novo</i>, publicado pelo selo de poesia contemporânea
-da Companhia das Letras; e de quatro livros de prosa, entre eles o de contos <i>Ainda
-orangotangos</i>, originalmente publicado pela editora Livros do Mal, posteriormente
-adaptado para o cinema pelo diretor Gustavo Spolidoro, longa-metragem vencedor
-do 13º Festival de Cinema de Milão. É também autor do romance <i>Habitante irreal</i>,
-publicado pela Alfaguara, livro vencedor do Prêmio da Fundação Biblioteca
-Nacional, publicado também na Alemanha, em Portugal, na Inglaterra e nos Estados
-Unidos."
+    bio: "<b>Paulo Scott</b>, autor de cinco livros de poesia – o mais recente,
+intitulado <i>Mesmo sem dinheiro comprei
+um esqueite novo</i>, vencedor do Prêmio APCA 2014 – e cinco de prosa – dentre eles
+o de contos <i>Ainda orangotangos</i>, adaptado para o cinema pelo diretor Gustavo Spolidoro,
+longa-metragem vencedor do 13º Festival de Cinema de Milão, o romance <i>Habitante irreal</i>,
+ vencedor do Prêmio da Fundação Biblioteca Nacional 2012 e publicado também na Alemanha,
+ em Portugal, na Inglaterra e nos Estados Unidos, e o recente <i>O ano em que vivi de literatura</i>. "
     active: true
     img_active: paulo1.png
     img_inactive: paulo2.png
