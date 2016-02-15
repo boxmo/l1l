@@ -1,0 +1,399 @@
+authors:
+  ademir_assuncao:
+    name: Ademir Assunção
+    bio: "<b>ADEMIR ASSUNÇÃO</b> é poeta, letrista de música e jornalista.
+Publicou <i>A voz do ventríloquo</i> (vencedor do Prêmio Jabuti 2013),
+<i>Pig brother</i>, <i>Faróis no caos</i>, <i>Zona branca</i> e <i>Adorável criatura
+frankenstein</i>, entre outros. Lançou os cds de poesia e música
+<i>Rebelião na zona fantasma</i> e <i>Viralatas de Córdoba</i>. Tem poemas
+ e contos traduzidos para o inglês, o espanhol e o alemão, publicados
+ em antologias nos Estados Unidos, na Argentina, no Peru, no México
+e na Alemanha. Poemas seus foram musicados e gravados por Itamar Assumpção,
+ Edvaldo Santana e Madan. É um dos editores da revista literária <i>Coyote</i>.
+Mais informações em <a href='http://zonabranca.com.br' target='_blank'>http://zonabranca.com.br</a>"
+    book: ademir_assuncao
+    active: true
+    img_active: ademir_assuncao.png
+    img_big: ademir_ssuncao.jpg
+  adriane_garcia:
+    name: Adriane Garcia
+    bio: "<b>Adriane Garcia</b> (Belo Horizonte, 1973) é historiadora,
+arte-educadora e atriz. Escreve poemas, contos, infanto-juvenis
+e dramaturgia. Venceu o Prêmio de Literatura do Paraná - Helena Kolody,
+em 2013, com o livro de poesia <i>Fábulas para adulto perder o sono</i>. Publicou,
+em 2014, <i>O nome do mundo</i> (Armazém da Cultura) e, em 2015, <i>Só, com peixes</i>
+(Confraria do Vento). Participou das antologias <i>Hiperconexões - Realidade expandida</i>
+(org. Luiz Bras) e <i>29 de abril</i>, <i>O verso da violência</i> (org. Silvana Guimarães).
+Publica no site <i>Escritoras Suicidas</i> e é colaboradora na <i>Mallarmargens</i>.
+Tem trabalhos em <i>Blocos online</i>, <i>Vida Secreta</i>, <i>Germina</i>, <i>Pausa</i>, <i>Diversos afins</i>, <i>Vox</i> e <i>Cult</i>."
+    book: adriane_garcia
+    active: true
+    img_active: adriane_garcia.png
+    img_big: adriane_garcia.jpg
+  allan_jonnes:
+    name: Allan Jonnes
+    bio: "<b>Allan Jonnes</b> nasceu em Lagarto (SE), em 12 de março de 1990,
+um dia completamente sem eventos – quinze minutos antes da hora do almoço,
+seis dias antes da morte do saudoso Zacarias, uma segunda-feira salva unicamente
+pelo aniversário de Jack Kerouac., em um ano salvo apenas pelo lançamento do
+Super Nintendo. Hoje vive em Aracaju, escreve poemas e estuda jornalismo."
+    book: allan_jonnes
+    active: true
+    img_active: allan_jonnes.png
+    img_big: allan_jonnes.jpg
+  amanda_bruno:
+    name: Amanda Bruno
+    bio: "<b>Amanda Bruno</b> escreve poesia e às vezes flerta com o teatro.
+Ganhou o prêmio Só para Poetas, da editora Edith, em 2013, e lançou
+seu primeiro livro, <i>Por aqui</i>, pela mesma editora. Tem textos publicados
+no jornal <i>Letras</i>, no <i>Dezfaces</i>, em zines como o <i>Amendoim</i> e o <i>Barkaça</i>."
+    book: amanda_bruno
+    active: true
+    img_active: amanda_bruno.png
+    img_big: amanda_bruno.jpg
+  ana_caetano:
+    name: Ana Caetano
+    bio: "<b>Ana Caetano</b> é poeta, tradutora e professora da Universidade Federal
+de Minas Gerais. Nasceu em Dores do Indaiá, Minas Gerais, em 1960.
+ Publicou os livros de poemas: <i>Levianas</i> (1984) e <i>Babel</i> (1994),
+com Levi Carneiro, e <i>Quatorze</i> (1997). Participou da coordenação dos projetos
+ Temporada de Poesia (1994), em comemoração aos 100 anos de Belo Horizonte,
+Poesia Orbital (1997), coleção de livros de 60 poetas de Belo Horizonte,
+e do CD <i>Cacograma</i> (2001). Foi coeditora da revista <i>Fahrenheit 451</i> e dos
+jornais de poesia <i>Inferno</i> (1998) e <i>DezFaces</i> (2007-2008).
+Seus poemas fazem parte da Antologia <i>Dez Faces</i> (2008). Assinou a coluna de poesia
+ do jornal <i>Letras do Café</i> (2006-2009)."
+    book: ana_caetano
+    active: true
+    img_active: ana_caetano.png
+    img_big: ana_caetano.jpg
+  anizio_vianna:
+    name: Anízio Vianna
+    bio: "<b>Anízio Vianna</b> é de Belo Horizonte, Minas Gerais. Poeta,
+letrista e professor. Graduado em Língua Portuguesa,
+Espanhola e suas literaturas. Entre os prêmios literários destacam-se
+o da <i>Revista Literária</i> da UFMG (1995), o Prêmio Nacional
+Cidade de Belo Horizonte (1996) e a menção de honra La Rosa de
+San Jorge do Centro Cultural Brasil/España (2001). Em 2002, lançou,
+com o grupo Chicória, o disco <i>Óvni-Estrela</i>, no projeto Reciclo Geral.
+Publicou poemas no <i>Suplemento Literário de Minas Gerais</i> e participou
+das antologias <i>O melhor da poesia brasileira, Minas Gerais</i> (2002),
+<i>Literatura e afrodescendência no Brasil: antologia crítica</i>, volume 3,
+e <i>Contemporaneidade</i> (2011). Em 2016, participará de exposição e residência
+artística na França e na Espanha, respectivamente."
+    book: anizio_vianna
+    active: true
+    img_active: anizio_vianna.png
+    img_big: anizio_vianna.jpg
+  bruna_beber:
+    name: Bruna Beber
+    bio: "<b>Bruna Beber</b> nasceu em 1984, em Duque de Caxias, RJ, e vive em São Paulo.
+É poeta e tradutora. Estreou na poesia com <i>A fila sem fim dos
+demônios descontentes</i> (7Letras, 2006) e é autora também de <i>Balés</i> (Língua Geral, 2009),
+<i>Rapapés & apupos</i> (7Letras, 2012) e <i>Rua da padaria</i> (Record, 2013).
+Também é coautora de um infantil, <i>Zebrosinha</i> (Galerinha, Record, 2013).
+Seus poemas já foram publicados em antologias e sites na Alemanha,
+Argentina, Espanha, Itália, México e Portugal.
+Participou como autora convidada de diversos eventos literários no Brasil
+e no exterior, entre as mais recentes a FLIP 2013
+(Festa Literária Internacional de Paraty), e a Gutemburg Book Fair 2014,
+na Suécia, integrando a comissão oficial de escritores que representaram o Brasil."
+    book: bruna_beber
+    active: true
+    img_active: bruna_beber.png
+    img_big: bruna_beber.jpg
+  bruna_piantino:
+    name: Bruna Piantino
+    bio: "<b>Bruna Piantino</b> é autora dos livros de poesia <i>Breus<i>, Bastão e Biscuit</i>,
+e do livro infantojuvenil <i>O siri e a sombrinha</i>. Participou como convidada
+nas antologias de autores de língua portuguesa <i>O achamento de Portugal e
+Portuguesia</i>. Realizadora dos vídeos <i>448</i> e <i>Ming Jai</i>. Produtora do longa-metragem
+<i>Trésor</i> e dos curta-metragens <i>Cocamado, Que Coso, Bastão</i>. Atriz na videoperfomance
+<i>Radio Pirata</i>. Roteirista de <i>Meredith, Acroama e Moths</i>. Criadora da plataforma
+virtual Cine <i>cafez_all</i>, com exibição itinerante de filmes selecionados."
+    book: bruna_piantino
+    active: true
+    img_active: bruna_piantino.png
+    img_big: bruna_piantino.jpg
+  chico_de_paula:
+    name: Chico de Paula
+    bio: "<b>Chico de Paula</b> é artista audiovisual, poeta, performador.
+Desenvolve performances, espetáculos intermidiáticos, instalações e
+conteúdos audiovisuais interativos para museus. Com formação em
+Arquitetura e Design, trabalha em diversos suportes, com foco
+na pesquisa de linguagem, a partir da tecnologia. Criou a Arquipélago
+como um ateliê de arte de fronteira, sempre em consonância com artistas
+de áreas e influências diversas que têm na inquietude um motor para
+as suas ações. Publicou os livros de poesia <i>44<i> (quarenta e quatro – esgotado)
+(2007) e <i>Sobras</i> (2013)."
+    book: chico_de_paula
+    active: true
+    img_active: chico_de_paula.png
+    img_big: chico_de_paula.jpg
+  daniel_minchoni:
+    name: Daniel Minchoni
+    bio: "<b>Daniel Minchoni</b> é sola no graffiti, na poesia esporte clube,
+no Jovens Escribas, Maus Costumes no RN e Sarau do Burro, Burruído,
+Selo do Burro, Nolombo e Nolombinho, Cabaret Revoltaire, Menor Slam do Mundo,
+Rachão Poético, Slam do Corpo e Phala'cia, Núcleo Permanente de Pesquisa
+em Performance e Fala Poética, em SP. Seus livros de cabeceira são <i>Escolha o
+título</i> (2006), <i>Iapois poisia</i> (2013), <i>Ouvivendo</i> (2013), <i>Carnevais</i> (2013),
+<i>Nos be gods de Olavo</i> (virtual - 2014) e <i>Ex-porro, poema sugo</i> (2014).
+Encabeça também as antologias Doburro e do Menor Slam do Mundo.
+<a href='http://danielminchoni.tumblr.com' target='_blank'>danielminchoni.tumblr.com</a>"
+    book: daniel_minchoni
+    active: true
+    img_active: daniel_minchoni.png
+    img_big: daniel_minchoni.jpg
+  diego_moraes:
+    name: Diego Moraes
+    bio: "<b>Diego Moraes</b> é um escritor amazonense, idealizador e criador da Flipobre,
+primeiro encontro literário 100% virtual, realizado em 2014 e 2015.
+Autor dos livros: <i>A fotografia do meu antigo amor dançando tango</i> (2012)
+e <i>A solidão é um deus bêbado dando ré num trator</i> (2013), publicados
+pela Bartlebee; <i>Um bar fecha dentro da gente</i>, pela editora portuguesa
+Douda Correria; e os recém-lançados <i>Eu já fui aquele cara que comprava
+vinte fichas e falava “eu te amo” no orelhão</i>, pela Corsário-satã,
+e <i>Meu coração é um bar vazio tocando Belchior</i>, pela Penalux."
+    book: diego_moraes
+    active: true
+    img_active: diego_moraes.png
+    img_big: diego_moraes.jpg
+  fabricio_corsaletti:
+    name: Fabrício Corsaletti
+    bio: "<b>Fabrício Corsaletti</b> nasceu em Santo Anastácio, interior de São Paulo,
+em 1978, e desde 1997 vive na capital. É autor dos contos de <i>King Kong e
+cervejas</i> (Companhia das Letras, 2008), da novela <i>Golpe de ar</i>
+(Editora 34, 2009), dos poemas de <i>Esquimó</i> (Companhia das Letras, 2010, prêmio Bravo!)
+e das crônicas de <i>Ela me dá capim e eu zurro</i> (Editora 34, 2014),
+entre outros. Desde 2010 é colunista da revista sãopaulo, do jornal <i>Folha de S.Paulo</i>."
+    book: fabricio_corsaletti
+    active: true
+    img_active: fabricio_corsaletti.png
+    img_big: fabricio_corsaletti.jpg
+    star: true
+  francesco_napoli:
+    name: Francesco Napoli
+    bio: "<b>Francesco Napoli</b> trabalha com poesia sonora, ruído e canção.
+Tem dois livros de poemas publicados: <i>Sobre alguma coisa, sobre coisa
+alguma ou Meta poesia sem meta e Árvore em V</i>. Lançou os discos de poesia
+sonora <i>NeoNão e Tropofonia</i>, este último resultado das experimentações sonoras
+realizadas no programa de rádio homônimo, que produz e apresenta na
+Rádio UFMG Educativa, 104,5 FM. Integra os grupos Divergência Socialista,
+ao lado do poeta Marcelo Dolabela, o coletivo Pausa Para Tudo,
+além das bandas Falcatrua e Carmen Fem."
+    book: francesco_napoli
+    active: true
+    img_active: francesco_napoli.png
+    img_big: francesco_napoli.jpg
+  ismar_tirelli_neto:
+    name: Ismar Tirelli Neto
+    bio: "<b>Ismar Tirelli</b> Neto nasceu em 1985, no Rio de Janeiro. É poeta,
+ficcionista, tradutor e roteirista. Lançou os livros de poemas <i>synchronoscopio,
+Ramerrão e Os Ilhados</i> (editora 7Letras). Atualmente vive em Curitiba, onde
+trabalha com tradução de patentes."
+    book: ismar_tirelli_neto
+    active: true
+    img_active: ismar_tirelli_neto.png
+    img_big: ismar_tirelli_neto.jpg
+  joca_reiners_terron:
+    name: Joca Reiners Terron
+    bio: "<b>Joca Reiners Terron</b> (Cuiabá, Mato Grosso, 1968) é escritor.
+Seu último livro é o romance <i>A tristeza extraordinária do leopardo-das-neves</i>
+(Companhia das Letras, 2013), também publicado no México e na Itália.
+Vive em São Paulo desde 1990."
+    book: joca_reiners_terron
+    active: true
+    img_active: joca_reiners_terron.png
+    img_big: joca_reiners_terron.jpg
+  juliana_bernardo:
+    name: Juliana Bernardo
+    bio: "<b>Juliana Bernardo</b> é poeta, cartomante e mochileira.
+Publicou <i>Carta Branca</i> e <i>Vitamina</i> (Patuá, 2011, 2013).
+Desde 2012, organiza saraus, debates e rodas de conversa
+sobre escrita e publicação. Coeditou a Coleção Edições Maloqueiristas (2014),
+que reuniu 26 títulos, entre poesia, ficção e teatro marginal.
+Cursou Filosofia, na USP, e estuda as medicinas da floresta e o candomblé.
+<a href='mailto:orugidodoleaonaocabenajaula@gmail.com'>orugidodoleaonaocabenajaula@gmail.com</a>"
+    book: juliana_bernardo
+    active: true
+    img_active: juliana_bernardo.png
+    img_big: juliana_bernardo.jpg
+  julio_abreu:
+    name: Júlio Abreu
+    bio: "<b>Júlio Abreu</b> faz doutorado no CEFET-MG com pesquisa sobre a poesia de
+Augusto de Campos. Editou, com Ricardo Novais, a coleção de poemas e desenhos
+<i>Relógio do Rosário</i> (Scriptum, 2004-2006), organizou o livro <i>Sobre ler, escrever e
+outros diálogos</i>, de Bartolomeu Campos de Queirós (Autêntica, 2012),
+considerado Altamente Recomendável na categoria Teórico (FNLIJ, 2013),
+e publicou <i>Jogo das horas</i> (Scriptum, 2015), Menção Honrosa no Concurso Nacional
+de Literatura Cidade de Belo Horizonte (2006). Atualmente dirige, com
+Leonora Weissmann, a Jiló Design, que desenvolve projetos de design gráfico. "
+    book: julio_abreu
+    active: true
+    img_active: julio_abreu.png
+    img_big: julio_abreu.jpg
+  kiko_ferreira:
+    name: Kiko Ferreira
+    bio: "<b>Kiko Ferreira</b> é mineiro de Belo Horizonte. Nasceu em janeiro de 1959
+e vem trabalhando com cultura, jornalismo e radialismo desde os anos 70.
+Lançou <i>Cordiana</i> (do autor, 1982), <i>Belo Blue</i> (Poesia Orbital , 1987), <i>Cio
+em setembro</i> (do autor, 1989- segunda edição Rona, 1999), <i>Beijo noir</i>
+(do autor, 1996), <i>Solo de kalimba</i> (Scriptum, 2003), <i>Stet</i> (Scriptum, 2007) –
+pré-indicado para o Prêmio Portugal Telecom, <i>Musikaligrafia</i> (Scriptum, 2009)
+e <i>Pó de pedra</i> (do autor, 2013). Tem poemas publicados no <i>Suplemento Literário
+de Minas Gerais</i>, na coletânea do projeto Terças Poéticas, no jornal
+<i>Mulheres Emergentes</i>, no projeto Pão e Poesia e em sites. Foi escolhido
+pelo <i>Suplemento</i> para integrar o grupo que escolheu 50 poetas contemporâneos
+na edição especial “A nova poesia brasileira vista por seus poetas” (2013).
+É diretor de produção musical da Orquestra Filarmônica de Minas Gerais e
+colabora com o jornal <i>Estado de Minas</i> e a revista <i>Mercado Comum</i>. <a href='mailto:kiko2901@terra.com.br'>kiko2901@terra.com.br</a>"
+    book: kiko_ferreira
+    active: true
+    img_active: kiko_ferreira.png
+    img_big: kiko_ferreira.jpg
+  leticia_feres:
+    name: Letícia Féres
+    bio: "<b>Letícia Féres</b> (Muriaé/MG, 1979) é editora de livros.
+Integrou, em Belo Horizonte/MG, o grupoPOESIAhoje, de 2004-2006,
+e o coletivo Não macule minha faca, de 2007-2009. É autora dos
+ebooks <i>Da estranheza das coisas</i>, <i>A cortina o tapete a menina e
+Meus piores poemas – vol. I</i>. Seus poemas foram publicados na <i>Revista de autofagia</i> (BH),
+no projeto Pliegues despliegues (Argentina/Espanha), nos catálogos do
+projeto Terças Poéticas, do Palácio das Artes/BH, e do Arte no Ônibus
+(Prefeitura Municipal de Belo Horizonte), entre outros veículos."
+    book: leticia_feres
+    active: true
+    img_active: leticia_feres.png
+    img_big: leticia_feres.jpg
+  liria_porto:
+    name: Líria Porto
+    bio: "<b>Líria Porto</b> é mineira de Araguari. Professora, poeta, tem dois livros
+editados em Portugal (<i>Borboleta desfolhada e De lua</i>) e dois no Brasil
+(<i>Asa de passarinho e Garimpo</i> - finalista do Prêmio Jabuti 2015).
+É autora do blogue Tanto mar, além de participar de vários sites, jornais e
+revistas na internet, entre eles <i>Escritoras suicidas, Germina literatura,
+Zunái, Blocos online, Considerações do poema, Poesia perfeita,
+Mallarmargens</i>. Reside em Araxá, interior de Minas Gerais."
+    book: liria_porto
+    active: true
+    img_active: liria_porto.png
+    img_big: liria_porto.jpg
+    star: true
+  luana_vignon:
+    name: Luana Vignon
+    bio: "<b>Luana Vignon</b> é escritora e editora, publicou <i>Os tiros vêm do paraíso</i>
+(Panelinha Books, 2010) e <i>Seu herói foi embora</i> (Yiyi Jambo, 2010),
+participou das coletâneas <i>Brother Cactus</i> (Alaúde, 2007),
+<i>Peso Pena</i> (Black Demom Press, 2010) e <i>É que os hussardos chegam hoje</i>
+(Patuá, 2014). Alguns de seus poemas continuam disponíveis no blog
+Fake Souvenir (<a href='http://luanavignon.wordpress.com/' target='_blank'>http://luanavignon.wordpress.com/</a>)."
+    book: luana_vignon
+    active: true
+    img_active: luana_vignon.png
+    img_big: luana_vignon.jpg
+  mariana_botelho:
+    name: Mariana Botelho
+    bio: "<b>Mariana Botelho</b> nasceu em Padre Paraíso, Vale do Jequitinhonha,
+Minas Gerais, no ano de 1983. É poeta e fotógrafa. Publicou, em 2010,
+pela Ateliê Editorial, seu livro de estréia, <i>O silêncio tange o sino<i>, e,
+em 2015, <i>K</i>, pela Clãdestina Kartonera."
+    book: mariana_botelho
+    active: true
+    img_active: mariana_botelho.png
+    img_big: mariana_botelho.jpg
+  sergio_mello:
+    name: Sergio Mello
+    bio: "<b>Sergio Mello</b> nasceu em São Paulo, em 1977. É autor dos livros
+de poesia <i>No banheiro um espelho trincado</i> (Ciência do Acidente, 2004) e
+<i>Inimigo em testamento</i> (Soul Kitchen Books, 2013). Além de poeta, é
+roteirista e dramaturgo. Em 2010, a editora Imprensa Oficial publicou
+algumas de suas peças teatrais."
+    book: sergio_mello
+    active: true
+    img_active: sergio_mello.png
+    img_big: sergio_mello.jpg
+  tazio_zambi:
+    name: Tazio Zambi
+    bio: "<b>Tazio Zambi</b> (1985) nasceu em Vitória, Espírito Santo, e vive em Maceió,
+Alagoas. Publicou <i>Retráteis</i> (Edufal, 2009) e <i>Cerco</i>
+(Randomia, 2013, disponível em <a href='http://taziozambi.com/cerco' target='_blank'>taziozambi.com/cerco</a>), e poemas e narrativas em
+jornais, antologias e revistas. É professor do Instituto Federal de Alagoas e
+doutorando do Programa de Teoria Literária e Literatura Comparada da USP.
+É autor da instalação-web <i>Maquinamenos e editor de Randomia</i>."
+    book: tazio_zambi
+    active: true
+    img_active: tazio_zambi.png
+    img_big: tazio_zambi.jpg
+
+books:
+  ademir_assuncao:
+    name: "Um nome escrito na água"
+    author: Ademir Assunção
+    public: true
+    released_at: Janeiro 2016
+    img: "ademir_assuncao.jpg"
+    link: "http://migre.me/sXmHi"
+  adriane_garcia:
+    name: "Embrulho para viagem"
+    author: Adriane Garcia
+    public: true
+    released_at: Janeiro 2016
+    img: "adriane_garcia.jpg"
+    link: "http://migre.me/sXmHU"
+  fabricio_corsaletti:
+    name: "Feliz com as minhas orelhas"
+    author: Fabrício Corsaletti
+    public: true
+    released_at: Fevereiro 2016
+    img: "fabricio_corsaletti.jpg"
+    link: "http://migre.me/sXmIr"
+    star: true
+  liria_porto:
+    name: "Para compensar a força bruta"
+    author: Líria Porto
+    public: true
+    released_at: Fevereiro 2016
+    img: "liria_porto.jpg"
+    link: "http://migre.me/sXmJ4"
+    star: true
+  allan_jonnes:
+    public: false
+  amanda_bruno:
+    public: false
+  ana_caetano:
+    public: false
+  anizio_vianna:
+    public: false
+  bruna_beber:
+    public: false
+  bruna_piantino:
+    public: false
+  chico_de_paula:
+    public: false
+  daniel_minchoni:
+    public: false
+  diego_moraes:
+    public: false
+  francesco_napoli:
+    public: false
+  ismar_tirelli_neto:
+    public: false
+  joca_reiners_terron:
+    public: false
+  juliana_bernardo:
+    public: false
+  julio_abreu:
+    public: false
+  kiko_ferreira:
+    public: false
+  leticia_feres:
+    public: false
+  luana_vignon:
+    public: false
+  mariana_botelho:
+    public: false
+  sergio_mello:
+    public: false
+  tazio_zambi:
+    public: false

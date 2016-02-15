@@ -103,10 +103,28 @@
             Autores convidados
           %span Saiba quem participa da coleção
     .row
-      %ul#og-grid.og-grid
-        - data.infos.authors.each do |key, author|
+      .col-md-6.col-md-offset-3.text-center
+        %ul.nav.nav-pills.season-swithcers
+          %li.active
+            %a.switch-season{ href: "#", data: { target: "segunda"}  } Segunda Temporada
           %li
-            %a.author-trigger{ href: "#", data: { description: author[:bio] , largesrc: image_path("autores/big/#{author[:img_big]}"), title: author[:name], credit: author[:credit], book: key } }
+            %a.switch-season{ href: "#", data: { target: "primeira"} } Primeira Temporada
+
+    .row
+      %ul#og-grid{ class: "og-grid" }
+        - data.infos_2016.authors.each do |key, author|
+          %li{ data: { season: "segunda" } }
+            %a.author-trigger{ href: "javascript:void(0);", data: { description: author[:bio] , largesrc: image_path("autores/big_2016/#{author[:img_big]}"), title: author[:name], credit: author[:credit], book: key } }
+              = image_tag "autores/mini_2016/#{author[:img_active]}", alt: author[:name], class: "img-circle center-align"
+              - if author[:star]
+                .star-ribbon
+              .author-name.text-center
+                = status_bullet(data.infos_2016.books[key] && data.infos_2016.books[key][:public])
+                = author[:name]
+
+        - data.infos.authors.each do |key, author|
+          %li{ data: { season: "primeira" }, class: "hidden" }
+            %a.author-trigger{ href: "javascript:void(0);", data: { description: author[:bio] , largesrc: image_path("autores/big/#{author[:img_big]}"), title: author[:name], credit: author[:credit], book: key } }
               = image_tag "autores/mini/#{author[:img_active]}", alt: author[:name], class: "img-circle center-align"
               - if author[:star]
                 .star-ribbon
@@ -119,8 +137,25 @@
 %section.container-fluid#books
   .container
     .row
+      .col-md-6.col-md-offset-3.text-center
+        %ul.nav.nav-pills.season-swithcers
+          %li.active
+            %a.switch-season{ href: "#", data: { target: "segunda"}  } Segunda Temporada
+          %li
+            %a.switch-season{ href: "#", data: { target: "primeira"} } Primeira Temporada
+    .row
       .col-md-12
-        .slider-lazy
+        .slider-lazy{ data: { season: "segunda" } }
+          - books = Hash[data.infos_2016.books.to_a]
+          - books_slider = Hash[books.delete_if { |key, book| !book[:public] }.to_a.reverse]
+          - books_slider.each do |key, book|
+            %div.text-center
+              = link_to "#", class: "book-modal-trigger", data: { toggle: "modal", target: "#book-#{key}" } do
+                %img.inline{ "data-lazy" => image_path("books_2016/#{book["img"]}") }
+                - if data.infos_2016.authors[key][:star]
+                  .book-star-ribbon
+
+        .slider-lazy.books-first-season{ data: { season: "primeira"} }
           - books = Hash[data.infos.books.to_a]
           - books_slider = Hash[books.delete_if { |key, book| !book[:public] }.to_a.reverse]
           - books_slider.each do |key, book|
@@ -414,6 +449,64 @@
         %a.close{ "data-dismiss" => "modal", :type => "button" } x
       .modal-body
         %p Sua mensagem foi enviada!
+
+- data.infos_2016.books.each do |key, book|
+  .modal.fade{ id: "book-#{key}"}
+    - if book[:public]
+      .modal-dialog
+        .modal-content
+          .modal-header
+            %h4.modal-title.inline= book[:name]
+            %button.close{"data-dismiss" => "modal", :type => "button"}
+              %span{"aria-hidden" => "true"} X
+              %span.sr-only Close
+          .modal-body
+            .text-center
+              = image_tag "books_2016/#{book[:img]}"
+            .center-align{ style: "width:252px;"}
+              %br
+              %p
+                %b Título:
+                #{book[:name]}
+              %p
+                %b Autor:
+                #{book[:author]}
+              %p
+                %b Disponível em:
+                = book[:public] ? book[:released_at] : "Em breve"
+          .modal-footer
+            .pull-right
+              -# %span.btn.btn-md.btn-info{ "data-dismiss" => "modal" } Download em breve
+              - if book[:public]
+                = link_to "Download", book[:link], download: "true", class: "btn btn-md btn-primary", target: "_blank"
+              - else
+                = link_to "Fechar", "#", class: "btn btn-md btn-link", "data-dismiss" => "modal"
+    - else
+      .modal-dialog
+        .modal-content
+          .modal-header
+            %h4.modal-title.inlineK ...
+            %button.close{"data-dismiss" => "modal", :type => "button"}
+              %span{"aria-hidden" => "true"} X
+              %span.sr-only Close
+          .modal-body
+            .text-center
+              = image_tag "books/embreve.jpg"
+            .center-align{ style: "width:252px;"}
+              %br
+              %p
+                %b Título:
+                \...
+              %p
+                %b Autor:
+                \...
+              %p
+                %b Disponível em:
+                Em breve
+          .modal-footer
+            .pull-right
+              = link_to "Fechar", "#", class: "btn btn-md btn-link", "data-dismiss" => "modal"
+
 
 - data.infos.books.each do |key, book|
   .modal.fade{ id: "book-#{key}"}

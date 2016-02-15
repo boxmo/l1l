@@ -7,15 +7,25 @@ $ ->
     template: '<a href="{{link}}" target="_blank"><img src="{{image}}" width="80px"/></a>'
 
   feed.run()
-  Grid.init()
+  Grid.init({target: ".grid1"})
+
 
   $('.collage').collagePlus()
   $('body').scrollspy({ target: '.list' })
+
+  hide_first_season_books = () ->
+    console.log "hideennnn"
+    $(".books-first-season").addClass("hidden")
+
+  setTimeout(hide_first_season_books, 3000)
+
 
   $('.slider-lazy').slick
     lazyLoad: 'ondemand'
     slidesToShow: 4
     slidesToScroll: 1
+    onInit: (slick) ->
+      console.log "init"
     responsive: [
       {
         breakpoint: 1024
@@ -38,6 +48,19 @@ $ ->
         slidesToScroll: 1
       }
     ]
+
+
+  $(".switch-season").on "click", (e) ->
+    e.preventDefault()
+    season = $(@).data("target")
+    target = $("[data-season~=#{season}]")
+    if target.is(":visible")
+      return
+    else
+      $("[data-season]").toggleClass("hidden")
+      $("ul.season-swithcers li").toggleClass("active")
+
+
 
   $(".tip").tooltip()
 
