@@ -14,7 +14,7 @@ Mais informações em <a href='http://zonabranca.com.br' target='_blank'>http://
     book: ademir_assuncao
     active: true
     img_active: ademir_assuncao.png
-    img_big: ademir_ssuncao.jpg
+    img_big: ademir_assuncao.jpg
   adriane_garcia:
     name: Adriane Garcia
     bio: "<b>Adriane Garcia</b> (Belo Horizonte, 1973) é historiadora,
@@ -335,7 +335,7 @@ books:
     img: "ademir_assuncao.jpg"
     link: "http://migre.me/sXmHi"
   adriane_garcia:
-    name: "Embrulho para viagem"
+    name: "Embrulhado para viagem"
     author: Adriane Garcia
     public: true
     released_at: Janeiro 2016
