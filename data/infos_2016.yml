@@ -67,6 +67,7 @@ Seus poemas fazem parte da Antologia <i>Dez Faces</i> (2008). Assinou a coluna d
     active: true
     img_active: ana_caetano.png
     img_big: ana_caetano.jpg
+    star: true
   anizio_vianna:
     name: Anízio Vianna
     bio: "<b>Anízio Vianna</b> é de Belo Horizonte, Minas Gerais. Poeta,
@@ -171,7 +172,6 @@ entre outros. Desde 2010 é colunista da revista sãopaulo, do jornal <i>Folha d
     active: true
     img_active: fabricio_corsaletti.png
     img_big: fabricio_corsaletti.jpg
-    star: true
   francesco_napoli:
     name: Francesco Napoli
     bio: "<b>Francesco Napoli</b> trabalha com poesia sonora, ruído e canção.
@@ -206,6 +206,7 @@ Vive em São Paulo desde 1990."
     active: true
     img_active: joca_reiners_terron.png
     img_big: joca_reiners_terron.jpg
+    star: true
   juliana_bernardo:
     name: Juliana Bernardo
     bio: "<b>Juliana Bernardo</b> é poeta, cartomante e mochileira.
@@ -279,7 +280,6 @@ Mallarmargens</i>. Reside em Araxá, interior de Minas Gerais."
     active: true
     img_active: liria_porto.png
     img_big: liria_porto.jpg
-    star: true
   luana_vignon:
     name: Luana Vignon
     bio: "<b>Luana Vignon</b> é escritora e editora, publicou <i>Os tiros vêm do paraíso</i>
@@ -348,7 +348,6 @@ books:
     released_at: Fevereiro 2016
     img: "fabricio_corsaletti.jpg"
     link: "http://migre.me/sXmIr"
-    star: true
   liria_porto:
     name: "Para compensar a força bruta"
     author: Líria Porto
@@ -356,12 +355,39 @@ books:
     released_at: Fevereiro 2016
     img: "liria_porto.jpg"
     link: "http://migre.me/sXmJ4"
+  diego_moraes:
+    name: "Você é um minuto de silêncio num mundo que grita feito louco embaixo do viaduto"
+    author: Diego Moraes
+    public: true
+    released_at: Março 2016
+    img: "diego_moraes.jpg"
+    link: "http://migre.me/tw5tD"    
+  julio_abreu:
+    name: "Do jogo das horas "
+    author: Júlio Abreu
+    public: true
+    released_at: Março 2016
+    img: "julio_abreu.jpg"
+    link: "http://migre.me/tw5u7"
+  joca_reiners_terron:
+    name: "Licença poética para matar"
+    author: Joca Reiners Terron
+    public: true
+    released_at: Abril 2016
+    img: "joca_terron.jpg"
+    link: "http://migre.me/tw61K"
+    star: true
+  ana_caetano:
+    name: "Inventário"
+    author: Ana Caetano
+    public: true
+    released_at: Abril 2016
+    img: "ana_caetano.jpg"
+    link: "http://migre.me/tw62B"
     star: true
   allan_jonnes:
     public: false
   amanda_bruno:
-    public: false
-  ana_caetano:
     public: false
   anizio_vianna:
     public: false
@@ -373,17 +399,11 @@ books:
     public: false
   daniel_minchoni:
     public: false
-  diego_moraes:
-    public: false
   francesco_napoli:
     public: false
   ismar_tirelli_neto:
     public: false
-  joca_reiners_terron:
-    public: false
   juliana_bernardo:
-    public: false
-  julio_abreu:
     public: false
   kiko_ferreira:
     public: false
