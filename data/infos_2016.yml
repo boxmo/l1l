@@ -67,7 +67,6 @@ Seus poemas fazem parte da Antologia <i>Dez Faces</i> (2008). Assinou a coluna d
     active: true
     img_active: ana_caetano.png
     img_big: ana_caetano.jpg
-    star: true
   anizio_vianna:
     name: Anízio Vianna
     bio: "<b>Anízio Vianna</b> é de Belo Horizonte, Minas Gerais. Poeta,
@@ -131,6 +130,7 @@ as suas ações. Publicou os livros de poesia <i>44<i> (quarenta e quatro – es
     active: true
     img_active: chico_de_paula.png
     img_big: chico_de_paula.jpg
+    star: true
   daniel_minchoni:
     name: Daniel Minchoni
     bio: "<b>Daniel Minchoni</b> é sola no graffiti, na poesia esporte clube,
@@ -206,7 +206,6 @@ Vive em São Paulo desde 1990."
     active: true
     img_active: joca_reiners_terron.png
     img_big: joca_reiners_terron.jpg
-    star: true
   juliana_bernardo:
     name: Juliana Bernardo
     bio: "<b>Juliana Bernardo</b> é poeta, cartomante e mochileira.
@@ -313,6 +312,7 @@ algumas de suas peças teatrais."
     active: true
     img_active: sergio_mello.png
     img_big: sergio_mello.jpg
+    star: true
   tazio_zambi:
     name: Tazio Zambi
     bio: "<b>Tazio Zambi</b> (1985) nasceu em Vitória, Espírito Santo, e vive em Maceió,
@@ -361,7 +361,7 @@ books:
     public: true
     released_at: Março 2016
     img: "diego_moraes.jpg"
-    link: "http://migre.me/tw5tD"    
+    link: "http://migre.me/tw5tD"
   julio_abreu:
     name: "Do jogo das horas "
     author: Júlio Abreu
@@ -376,7 +376,6 @@ books:
     released_at: Abril 2016
     img: "joca_terron.jpg"
     link: "http://migre.me/tw61K"
-    star: true
   ana_caetano:
     name: "Inventário"
     author: Ana Caetano
@@ -384,6 +383,21 @@ books:
     released_at: Abril 2016
     img: "ana_caetano.jpg"
     link: "http://migre.me/tw62B"
+  sergio_mello:
+    name: Às paredes
+    author: Sergio Mello
+    released_at: Maio 2016
+    img: "sergio_mello.jpg"
+    link: "http://migre.me/tGzJD"
+    public: true
+    star: true
+  chico_de_paula:
+    name: "Poemas para voz"
+    author: "Chico de Paula"
+    released_at: Maio 2016
+    img: "chico_de_paula.jpg"
+    link: "http://migre.me/tGzLz"
+    public: true
     star: true
   allan_jonnes:
     public: false
@@ -394,8 +408,6 @@ books:
   bruna_beber:
     public: false
   bruna_piantino:
-    public: false
-  chico_de_paula:
     public: false
   daniel_minchoni:
     public: false
@@ -412,8 +424,6 @@ books:
   luana_vignon:
     public: false
   mariana_botelho:
-    public: false
-  sergio_mello:
     public: false
   tazio_zambi:
     public: false
